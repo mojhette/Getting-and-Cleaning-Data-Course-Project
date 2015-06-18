@@ -1,6 +1,6 @@
- -- Code Book --
+# Code Book #
 
- -- Introduction --
+## Introduction ##
  
 Creation of a R script called run_analysis.R :
 
@@ -33,13 +33,13 @@ Open all necessary library and change work directory
     export tidy data in txt file
     
     
- -- Variables --
+## Variables ##
 
-1 - Raw data & label data
+1 - Raw data & label data from downloaded files
 
   X_train, y_train, subject_train, X_test, y_test, subject_test, features, activities
   
-2 - Rbind variable (merge of each X, Y and subject)
+2 - _rbind_ variable (merge of each X, Y and subject)
 
   x_data, y_data, subject_data
   
