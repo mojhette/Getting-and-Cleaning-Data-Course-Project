@@ -20,9 +20,13 @@ From the data set in step 4, creates a second, independent tidy data set with th
  -- What u can find in this repository -- 
  
 Readme.md  <- Introduction and explication of my work
+
 CodeBook.md  <- Code book of run_analysis.R
+
 Output.txt  <- Tidy data of the project
+
 run_analysis.R  <- R Code to obtain tidy data
+
 
  -- How run_analysis.R works ? --
  
