@@ -31,13 +31,21 @@ run_analysis.R  <- R Code to obtain tidy data
  -- How run_analysis.R works ? --
  
 1/ we open all necessary library
+
 2/ move to the correct work directory
+
 3/ open all the files
+
 4/ merge data set
+
 5/ select the correct column
+
 6/ change names of columns
+
 7/ create tidy data
+
 8/ export tidy data in Output.txt
+
 
 
 
